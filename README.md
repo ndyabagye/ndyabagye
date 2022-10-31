@@ -18,17 +18,20 @@ My Portfolio website is here https://ndyabagyeportfolio.netlify.app/
 |Twitter Clone| https://github.com/ndyabagye/twitter-clone | Twitter Clone built using next js typescript tailwind css sanity and the twitter api |
 |Netflix Clone | https://github.com/ndyabagye/netflix-clone |A netflix clone built using next js, typescript, firebase and the TMDB API|
 
+
 ## Fun projects
 | Project | Link | Description | 
-| Pokemon | https://github.com/ndyabagye/pokemon | Learning the rendering modes of next js|
+| ----------- | ----------- |--------|
+| Pokemon | https://github.com/ndyabagye/pokemon | Learning the rendering modes of next js |
 | Chirper| https://github.com/ndyabagye/chirper | Using Laravel and Inertia plus Vue to build dynamic app without need for APIs |
-| Portfolio |https://github.com/ndyabagye/my-portfolio | Personal Portfolio built using tailwind and react js|
+| Portfolio | https://github.com/ndyabagye/my-portfolio | Personal Portfolio built using tailwind and react js|
 | Meme Generator| https://github.com/ndyabagye/MemeGenerator | For the jokes| 
-| Emoji Rating | https://github.com/ndyabagye/Emoji-Rating | Rate using numbers from 1 to 5 and see a corresponding emoji, from a course at [Scrimba](https://scrimba.com/)|
+| Emoji Rating | https://github.com/ndyabagye/Emoji-Rating | Rate using numbers from 1 to 5 and see a corresponding emoji, from a course at [Scrimba](https://scrimba.com/) |
 
 
 ## Course
 |Project | Link | Description |
+| ----------- | ----------- |--------|
 | React Crash Course | https://github.com/ndyabagye/react_crash | Getting started with react following Brad Traversy |
 
 
