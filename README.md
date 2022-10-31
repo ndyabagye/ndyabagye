@@ -1,12 +1,15 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/49935935?v=4">
- <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/49935935?v=4">
- <img alt="Ndyabagye Henry" src="https://avatars.githubusercontent.com/u/49935935?v=4">
-</picture>
+# Hello, I am **Henry, Ndyabagye Henry** :wave. 
+
+### Welcome to my Github
+
+I am interested in web technologies and I have built some projects around them using JavaScript (React and Vue), HTML, CSS (Tailwind, Sass, Bootstrap), Laravel.
+
+Below are some of the projects I have worked on.
+
 
 <!--
 **ndyabagye/ndyabagye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
