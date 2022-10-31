@@ -7,7 +7,7 @@ I am interested in web technologies and I have built some projects around them u
 Below are some of the projects I have worked on.
 
 | Project      | Link | Description |
-| ----------- | ----------- |
+| ----------- | ----------- |--------|
 | Amazon Clone      | https://github.com/ndyabagye/amazon-clone |Amazon clone built in react with firebase hosting and firestore database |
 | Slack Clone  | https://github.com/ndyabagye/slack-clone | Slack clone built with react, redux, firebase and styled components |
 | Hulu Clone | https://github.com/ndyabagye/hulu-clone | Hulu clone built with next js and  tailwind css |
