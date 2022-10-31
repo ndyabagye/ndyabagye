@@ -6,7 +6,7 @@ I am interested in web technologies and I have built some projects around them u
 
 Below are some of the projects I have worked on.
 
-My Portfolio is https://github.com/ndyabagye/my-portfolio
+My Portfolio website is here https://ndyabagyeportfolio.netlify.app/
 
 ## Clones
 
@@ -22,7 +22,16 @@ My Portfolio is https://github.com/ndyabagye/my-portfolio
 | Project | Link | Description | 
 |Pokemon | https://github.com/ndyabagye/pokemon| Learning the rendering modes of next js|
 |Chirper| https://github.com/ndyabagye/chirper | Using Laravel and Inertia plus Vue to build dynamic app without need for APIs |
-| |||
+|Portfolio |https://github.com/ndyabagye/my-portfolio | Personal Portfolio built using tailwind and react js|
+|Meme Generator| https://github.com/ndyabagye/MemeGenerator | For the jokes| 
+|Emoji Rating | https://github.com/ndyabagye/Emoji-Rating | Rate using numbers from 1 to 5 and see a corresponding emoji, from a course at [Scrimba](https://scrimba.com/)|
+
+
+## Course
+|Project | Link | Description |
+| React Crash Course | https://github.com/ndyabagye/react_crash | Getting started with react following Brad Traversy |
+
+
 
 
 
