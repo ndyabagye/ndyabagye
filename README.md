@@ -1,10 +1,15 @@
-# Hello, I am **Henry, Ndyabagye Henry** :wave. 
+# Hello, I am **Henry, Ndyabagye Henry** 
 
 ### Welcome to my Github
 
 I am interested in web technologies and I have built some projects around them using JavaScript (React and Vue), HTML, CSS (Tailwind, Sass, Bootstrap), Laravel.
 
 Below are some of the projects I have worked on.
+
+| Project      | Link |
+| ----------- | ----------- |
+| Amazon Clone      | https://github.com/ndyabagye/amazon-clone       |
+| Slack Clone  | https://github.com/ndyabagye/slack-clone |
 
 
 <!--
