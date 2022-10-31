@@ -20,11 +20,11 @@ My Portfolio website is here https://ndyabagyeportfolio.netlify.app/
 
 ## Fun projects
 | Project | Link | Description | 
-|Pokemon | https://github.com/ndyabagye/pokemon| Learning the rendering modes of next js|
-|Chirper| https://github.com/ndyabagye/chirper | Using Laravel and Inertia plus Vue to build dynamic app without need for APIs |
-|Portfolio |https://github.com/ndyabagye/my-portfolio | Personal Portfolio built using tailwind and react js|
-|Meme Generator| https://github.com/ndyabagye/MemeGenerator | For the jokes| 
-|Emoji Rating | https://github.com/ndyabagye/Emoji-Rating | Rate using numbers from 1 to 5 and see a corresponding emoji, from a course at [Scrimba](https://scrimba.com/)|
+| Pokemon | https://github.com/ndyabagye/pokemon | Learning the rendering modes of next js|
+| Chirper| https://github.com/ndyabagye/chirper | Using Laravel and Inertia plus Vue to build dynamic app without need for APIs |
+| Portfolio |https://github.com/ndyabagye/my-portfolio | Personal Portfolio built using tailwind and react js|
+| Meme Generator| https://github.com/ndyabagye/MemeGenerator | For the jokes| 
+| Emoji Rating | https://github.com/ndyabagye/Emoji-Rating | Rate using numbers from 1 to 5 and see a corresponding emoji, from a course at [Scrimba](https://scrimba.com/)|
 
 
 ## Course
