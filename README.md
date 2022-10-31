@@ -10,6 +10,9 @@ Below are some of the projects I have worked on.
 | ----------- | ----------- |
 | Amazon Clone      | https://github.com/ndyabagye/amazon-clone       |
 | Slack Clone  | https://github.com/ndyabagye/slack-clone |
+| Hulu Clone | https://github.com/ndyabagye/hulu-clone |
+|Twitter Clone| https://github.com/ndyabagye/twitter-clone |
+|Netflix Clone | https://github.com/ndyabagye/netflix-clone |
 
 
 <!--
