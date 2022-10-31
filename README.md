@@ -6,6 +6,10 @@ I am interested in web technologies and I have built some projects around them u
 
 Below are some of the projects I have worked on.
 
+My Portfolio is https://github.com/ndyabagye/my-portfolio
+
+## Clones
+
 | Project      | Link | Description |
 | ----------- | ----------- |--------|
 | Amazon Clone      | https://github.com/ndyabagye/amazon-clone |Amazon clone built in react with firebase hosting and firestore database |
@@ -13,6 +17,12 @@ Below are some of the projects I have worked on.
 | Hulu Clone | https://github.com/ndyabagye/hulu-clone | Hulu clone built with next js and  tailwind css |
 |Twitter Clone| https://github.com/ndyabagye/twitter-clone | Twitter Clone built using next js typescript tailwind css sanity and the twitter api |
 |Netflix Clone | https://github.com/ndyabagye/netflix-clone |A netflix clone built using next js, typescript, firebase and the TMDB API|
+
+## Fun projects
+| Project | Link | Description | 
+|Pokemon | https://github.com/ndyabagye/pokemon| Learning the rendering modes of next js|
+|Chirper| https://github.com/ndyabagye/chirper | Using Laravel and Inertia plus Vue to build dynamic app without need for APIs |
+| |||
 
 
 
