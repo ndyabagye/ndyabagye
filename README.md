@@ -30,8 +30,14 @@ My Portfolio website is here https://ndyabagyeportfolio.netlify.app/
 | Meme Generator| https://github.com/ndyabagye/MemeGenerator | For the jokes| 
 | Emoji Rating | https://github.com/ndyabagye/Emoji-Rating | Rate using numbers from 1 to 5 and see a corresponding emoji, from a course at [Scrimba](https://scrimba.com/) |
 
+## School work 
+| Project | Link | Description | 
+| AI Car Price Negotiator | https://github.com/ndyabagye/bsse22-9-fyp |final year project for bsse22-9 group built using React, Python, Tailwind|
+| Online Shop | https://github.com/ndyabagye/Online-Shop | Online Shop created using Servlets,JSP,JSTL &JDBC technology.|
+| Katikamu PS | https://github.com/ndyabagye/KatiKamuPS |Small school management system using JAVA to create the GUI|
 
-## Course
+
+## Course/ Tutorials
 |Project | Link | Description |
 | ----------- | ----------- |--------|
 | React Crash Course | https://github.com/ndyabagye/react_crash | Getting started with react following Brad Traversy |
