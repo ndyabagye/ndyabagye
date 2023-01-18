@@ -4,6 +4,8 @@
 
 I am interested in web technologies and I have built some projects around them using JavaScript (React and Vue), HTML, CSS (Tailwind, Sass, Bootstrap), Laravel.
 
+I have recently started learning #RUST, so watch this space for fun projects
+
 Below are some of the projects I have worked on.
 
 My Portfolio website is here https://ndyabagyeportfolio.netlify.app/
