@@ -32,7 +32,8 @@ My Portfolio website is here https://ndyabagyeportfolio.netlify.app/
 
 ## School work 
 | Project | Link | Description | 
-| AI Car Price Negotiator | https://github.com/ndyabagye/bsse22-9-fyp |final year project for bsse22-9 group built using React, Python, Tailwind|
+| ----------- | ----------- |--------|
+| AI Car Price Negotiator | https://github.com/ndyabagye/bsse22-9-fyp | Final year project for bsse22-9 group built using React, Python, Tailwind|
 | Online Shop | https://github.com/ndyabagye/Online-Shop | Online Shop created using Servlets,JSP,JSTL &JDBC technology.|
 | Katikamu PS | https://github.com/ndyabagye/KatiKamuPS |Small school management system using JAVA to create the GUI|
 
