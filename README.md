@@ -19,6 +19,7 @@ My Portfolio website is here https://ndyabagyeportfolio.netlify.app/
 | Hulu Clone | https://github.com/ndyabagye/hulu-clone | Hulu clone built with next js and  tailwind css |
 |Twitter Clone| https://github.com/ndyabagye/twitter-clone | Twitter Clone built using next js typescript tailwind css sanity and the twitter api |
 |Netflix Clone | https://github.com/ndyabagye/netflix-clone |A netflix clone built using next js, typescript, firebase and the TMDB API|
+|Airbnb Clone | https://github.com/ndyabagye/netflix-clone | Airbnb clone built using typescript, nextjs, cloudinary, mongodb |
 
 
 ## Fun projects
