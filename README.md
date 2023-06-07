@@ -25,6 +25,7 @@ My Portfolio website is here https://ndyabagyeportfolio.netlify.app/
 ## Fun projects
 | Project | Link | Description | 
 | ----------- | ----------- |--------|
+|Nutricore| https://github.com/ndyabagye/Nutricore | Webapp for subscribing to packages React,tailwind, stripe, firebase |
 | Pokemon | https://github.com/ndyabagye/pokemon | Learning the rendering modes of next js |
 | Chirper| https://github.com/ndyabagye/chirper | Using Laravel and Inertia plus Vue to build dynamic app without need for APIs |
 | Portfolio | https://github.com/ndyabagye/my-portfolio | Personal Portfolio built using tailwind and react js|
