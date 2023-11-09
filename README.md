@@ -32,6 +32,7 @@ My Portfolio website is here https://ndyabagyeportfolio.netlify.app/
 | Portfolio | https://github.com/ndyabagye/my-portfolio | Personal Portfolio built using tailwind and react js|
 | Meme Generator| https://github.com/ndyabagye/MemeGenerator | For the jokes| 
 | Emoji Rating | https://github.com/ndyabagye/Emoji-Rating | Rate using numbers from 1 to 5 and see a corresponding emoji, from a course at [Scrimba](https://scrimba.com/) |
+|MicroReddit | https://github.com/ndyabagye/microreddit | Microreddit with users, posts and comments built using ruby on rails [backend only] |
 
 ## School work 
 | Project | Link | Description | 
