@@ -4,7 +4,10 @@
 
 I am interested in web technologies and I have built some projects around them using JavaScript (React and Vue), HTML, CSS (Tailwind, Sass, Bootstrap), Laravel.
 
-I have recently started learning `GOLANG`, so watch this space for fun projects
+I have recently started learning `GOLANG`, so watch this space for fun projects.
+
+/// **Edit**
+I am back to Laravel
 
 Below are some of the projects I have worked on.
 
